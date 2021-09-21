@@ -1,0 +1,151 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #40514E;
+}
+
+h1{
+    margin-top: 30px;
+    color: #E4F9F5;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.5rem;
+    margin-bottom: 2px;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #22577A;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: #66BFBF;
+}
+h4{
+    font-family: 'Montserrat', sans-serif; ;
+}
+
+#noob{
+    color: #E4F9F5;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+p {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#top{
+    background-color: #11999E;
+    position: relative; 
+    padding-top: 120px;
+    margin-bottom: 20px;    
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 289px;
+    bottom: 200px;
+    height: 300px; width: 414px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 249px;
+    top: -43px;
+    height: 260px;
+    width: 309px;
+}
+
+.bottom-container a{
+    color: #E4F9F5;
+    text-decoration: none;
+    margin: 30px 10px;
+    line-height: 2;
+    font-size: 1.2rem;
+}
+
+.contact-me a{
+    color: #11999E;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 80px auto;
+}
+
+.skill-row {
+    text-align: left;
+    line-height: 2;
+}
+
+.webd-gif{
+    float: left;
+    margin-right: 30px;
+}
+
+.netflix-gif{
+    float: right;
+    margin-left: 30px;
+}
+
+.profile{
+    width: 40%;
+    margin: 80px auto;
+}
+
+hr{
+    border: none;
+    border-top: 6px dotted #C8C6C6;
+    width: 5%;
+}
+
+.skills{
+    margin: 80px auto;
+}
+
+.contact-me{
+    width: 40%;
+    margin: 80px auto;
+}
+
+.contact-me p{
+    margin: 40px auto;
+}
+
+.contact-me h4{
+    color: #11999E;
+    margin: 40px auto;
+}
+
+.contact-me a{
+    padding: 10px 15px;
+    color: #E4F9F5;
+    background-color: #11999E;
+    border-radius: 30px;
+}
+
+.bottom-container{
+    padding: 50px;
+    background-color: #11999E;
+    height: 80px;
+}
+
+.bottom-container p{
+    margin-bottom: 0px;
+    color: #E4F9F5;
+}
+
+.bottom-container a:hover{
+    color: #22577A;
+    font-weight: bolder;
+}
+
+
